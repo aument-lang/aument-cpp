@@ -1,0 +1,3 @@
+import "../build/libaument_hpp.dll" as test;
+print test::test0();
+print test::test1("A");
